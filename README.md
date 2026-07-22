@@ -1,44 +1,72 @@
-<div align="center">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,14,20,24&text=Hey%20There!%20I'm%20Sakshi&fontSize=58&fontColor=F4E8FF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descSize=20"/>
+```python
+class SakshiPatel:
 
-<br>
+    def __init__(self):
+        self.name = "Sakshi Patel"
+        self.role = "Computer Engineering Student"
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&color=C8A2FF&lines=Artificial+Intelligence+Explorer;Machine+Learning+Engineer;Natural+Language+Processing+Enthusiast;Deep+Learning+Learner;Data+Science+Explorer;Building+Intelligent+Solutions+for+Real+World+Problems"/>
+        self.specialization = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Deep Learning",
+            "Data Science"
+        ]
 
-<br>
+        self.current_focus = [
+            "Building Intelligent Web Applications",
+            "Developing ML & NLP Solutions",
+            "Learning Advanced AI Technologies",
+            "Exploring Real-World Data"
+        ]
 
-<p>
-<img src="https://img.shields.io/badge/AI-Expertise-E8D5FF?style=for-the-badge&logo=openai&logoColor=6B46C1"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-DCC6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Enthusiast-EEDBFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-Learner-D8B4FE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-Explorer-CDB4FF?style=for-the-badge"/>
-</p>
+        self.languages = [
+            "Python",
+            "Java",
+            "C++",
+            "JavaScript"
+        ]
 
-</div>
+        self.goal = (
+            "To build intelligent, scalable, and impactful solutions "
+            "that solve real-world problems."
+        )
+
+    def introduce(self):
+        return (
+            "Hi, I'm Sakshi 👋 "
+            "A Computer Engineering student passionate about AI, "
+            "Machine Learning, NLP, Deep Learning, and Data Science."
+        )
+
+me = SakshiPatel()
+print(me.introduce())
+```
 
 ---
 
-# 👋 About Me
+### 🚀 Who Am I?
 
-I'm **Sakshi Patel**, a Computer Engineering student with a passion for building intelligent systems that solve real-world problems.
+🎓 Computer Engineering Student
 
-My interests span across Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, and Data Science. I enjoy transforming raw data into meaningful insights and developing practical applications that combine research with real-world impact.
+🤖 Passionate about Artificial Intelligence
 
-### 💜 Areas of Interest
+🧠 Aspiring Machine Learning Engineer
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💬 Natural Language Processing
-- 👁️ Computer Vision
-- 🧬 Deep Learning
-- 📊 Data Science
-- ⚡ FastAPI Development
-- ☁️ Intelligent Web Applications
+💬 Natural Language Processing Enthusiast
+
+🧬 Deep Learning Learner
+
+📊 Data Science Explorer
+
+💻 Full-Stack ML Application Developer
+
+🌱 Always learning, experimenting, and building impactful projects.
 
 ---
 
-### 💭 Philosophy
+### 💜 My Mission
 
-> *"The future belongs to those who transform data into intelligence and intelligence into impact."*
+> **To leverage Artificial Intelligence and data-driven technologies to create intelligent, scalable, and trustworthy solutions that make a meaningful impact.**
