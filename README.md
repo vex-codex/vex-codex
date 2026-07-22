@@ -1,72 +1,35 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 💜 About Me
 
-```python
-class SakshiPatel:
+```bash
+> whoami
 
-    def __init__(self):
-        self.name = "Sakshi Patel"
-        self.role = "Computer Engineering Student"
+Sakshi Patel
 
-        self.specialization = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Natural Language Processing",
-            "Deep Learning",
-            "Data Science"
-        ]
+> role
 
-        self.current_focus = [
-            "Building Intelligent Web Applications",
-            "Developing ML & NLP Solutions",
-            "Learning Advanced AI Technologies",
-            "Exploring Real-World Data"
-        ]
+AI & Machine Learning Engineer
 
-        self.languages = [
-            "Python",
-            "Java",
-            "C++",
-            "JavaScript"
-        ]
+> interests
 
-        self.goal = (
-            "To build intelligent, scalable, and impactful solutions "
-            "that solve real-world problems."
-        )
+✓ Artificial Intelligence
+✓ Machine Learning
+✓ Deep Learning
+✓ Natural Language Processing
+✓ Data Science
+✓ Computer Vision
 
-    def introduce(self):
-        return (
-            "Hi, I'm Sakshi 👋 "
-            "A Computer Engineering student passionate about AI, "
-            "Machine Learning, NLP, Deep Learning, and Data Science."
-        )
+> currently_learning
 
-me = SakshiPatel()
-print(me.introduce())
+Advanced Deep Learning
+LLMs
+MLOps
+Generative AI
+
+> current_mission
+
+Building intelligent applications that solve real-world problems.
+
+> life_motto
+
+"Learn. Build. Improve. Repeat."
 ```
-
----
-
-### 🚀 Who Am I?
-
-🎓 Computer Engineering Student
-
-🤖 Passionate about Artificial Intelligence
-
-🧠 Aspiring Machine Learning Engineer
-
-💬 Natural Language Processing Enthusiast
-
-🧬 Deep Learning Learner
-
-📊 Data Science Explorer
-
-💻 Full-Stack ML Application Developer
-
-🌱 Always learning, experimenting, and building impactful projects.
-
----
-
-### 💜 My Mission
-
-> **To leverage Artificial Intelligence and data-driven technologies to create intelligent, scalable, and trustworthy solutions that make a meaningful impact.**
