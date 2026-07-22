@@ -1,62 +1,44 @@
 <div align="center">
 
-# Hey there, I'm Sakshi Patel 👋
-
-### Computer Engineering Student • ML Engineer • NLP Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Building+technology+that+people+can+trust.;Machine+Learning+%7C+Natural+Language+Processing.;Creating+real-world+solutions+through+code."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,14,20,24&text=Hey%20There!%20I'm%20Sakshi&fontSize=58&fontColor=F4E8FF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20Engineer%20%7C%20Data%20Science%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <br>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&color=C8A2FF&lines=Artificial+Intelligence+Explorer;Machine+Learning+Engineer;Natural+Language+Processing+Enthusiast;Deep+Learning+Learner;Data+Science+Explorer;Building+Intelligent+Solutions+for+Real+World+Problems"/>
 
-</div>
+<br>
 
----
-
-## About Me
-
-I don't just write code—I enjoy building systems that solve real problems.
-
-Currently, I'm focused on Machine Learning, Natural Language Processing, and Full-Stack Development, creating projects that combine intelligent models with practical user experiences.
-
-My goal is simple:
-
-> **Build software that is useful, scalable, and trustworthy.**
-
----
-
-## Currently Building
-
-### 🔹 AuthentiScan
-
-A Machine Learning-powered web application that verifies product authenticity by analyzing both product images and customer reviews.
-
-**Tech Stack**
-
-- FastAPI
-- TensorFlow
-- MobileNetV2
-- Scikit-learn
-- TF-IDF
-- Logistic Regression
-- PostgreSQL
-- HTML • CSS • JavaScript
-
----
-
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,postgres,sqlite,html,css,js,git,github,vscode"/>
-
+<p>
+<img src="https://img.shields.io/badge/AI-Expertise-E8D5FF?style=for-the-badge&logo=openai&logoColor=6B46C1"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Engineer-DCC6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Enthusiast-EEDBFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Learner-D8B4FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-Explorer-CDB4FF?style=for-the-badge"/>
 </p>
 
+</div>
+
 ---
 
-<div align="center">
+# 👋 About Me
 
-### "Great technology earns trust before attention."
+I'm **Sakshi Patel**, a Computer Engineering student with a passion for building intelligent systems that solve real-world problems.
 
-</div>
+My interests span across Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, and Data Science. I enjoy transforming raw data into meaningful insights and developing practical applications that combine research with real-world impact.
+
+### 💜 Areas of Interest
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Natural Language Processing
+- 👁️ Computer Vision
+- 🧬 Deep Learning
+- 📊 Data Science
+- ⚡ FastAPI Development
+- ☁️ Intelligent Web Applications
+
+---
+
+### 💭 Philosophy
+
+> *"The future belongs to those who transform data into intelligence and intelligence into impact."*
