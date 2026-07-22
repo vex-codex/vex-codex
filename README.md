@@ -1,143 +1,62 @@
-<!-- ========================================= -->
-<!--              HERO SECTION                 -->
-<!-- ========================================= -->
-
 <div align="center">
 
-# ⚡ INITIALIZING PROFILE...
+# Hey there, I'm Sakshi Patel 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+👋;I+am+Sakshi+Patel.;Computer+Engineering+Student.;Machine+Learning+%7C+NLP+Developer.;Building+Technology+That+Creates+Trust." />
+### Computer Engineering Student • ML Engineer • NLP Enthusiast
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=700&lines=Building+technology+that+people+can+trust.;Machine+Learning+%7C+Natural+Language+Processing.;Creating+real-world+solutions+through+code."/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Fpa3VvY2s4d3VwbGpwMjh6aW4xbGF1N2hjbzFqM2J3ZmQ4M2s2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="850"/>
+<br>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
 ---
 
-# 🎬 BOOT SEQUENCE
+## About Me
 
-```text
-███████╗ █████╗ ██╗  ██╗███████╗██╗  ██╗██╗
-██╔════╝██╔══██╗██║ ██╔╝██╔════╝██║  ██║██║
-███████╗███████║█████╔╝ ███████╗███████║██║
-╚════██║██╔══██║██╔═██╗ ╚════██║██╔══██║██║
-███████║██║  ██║██║  ██╗███████║██║  ██║██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝
+I don't just write code—I enjoy building systems that solve real problems.
 
-STATUS : ONLINE
-SYSTEM : READY
-MISSION: BUILDING TRUST THROUGH TECHNOLOGY
-```
+Currently, I'm focused on Machine Learning, Natural Language Processing, and Full-Stack Development, creating projects that combine intelligent models with practical user experiences.
+
+My goal is simple:
+
+> **Build software that is useful, scalable, and trustworthy.**
 
 ---
 
-# 👋 HEY THERE!
+## Currently Building
 
-> ## **I'm Sakshi Patel**
+### 🔹 AuthentiScan
 
-🎓 Computer Engineering Student
+A Machine Learning-powered web application that verifies product authenticity by analyzing both product images and customer reviews.
 
-💻 Passionate about Software Development
+**Tech Stack**
 
-🤖 Machine Learning Enthusiast
-
-🧠 Natural Language Processing Explorer
-
-🚀 Building Intelligent Applications
-
-🔥 Creating Solutions for Real-World Problems
-
----
-
-# ⚡ WHO AM I?
-
-```python
-class SakshiPatel:
-
-    def __init__(self):
-
-        self.role = "ML & NLP Developer"
-
-        self.language = [
-            "Python",
-            "Java",
-            "C++",
-            "JavaScript"
-        ]
-
-        self.frontend = [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
-
-        self.backend = [
-            "FastAPI",
-            "REST APIs"
-        ]
-
-        self.database = [
-            "PostgreSQL",
-            "SQLite"
-        ]
-
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "NLP",
-            "Computer Vision"
-        ]
-
-        self.current_project = "AuthentiScan"
-
-        self.goal = "Creating technology that people can trust."
-
-me = SakshiPatel()
-```
+- FastAPI
+- TensorFlow
+- MobileNetV2
+- Scikit-learn
+- TF-IDF
+- Logistic Regression
+- PostgreSQL
+- HTML • CSS • JavaScript
 
 ---
 
-# 🚀 CURRENT MISSION
-
-> ### **AUTHENTISCAN**
-
-An intelligent platform that verifies both
-
-✔ Product Images
-
-✔ Customer Reviews
-
-using
-
-Machine Learning + Natural Language Processing
-
-to help users identify counterfeit products before purchasing.
-
----
-
-# ⚙ TECH STACK
+## Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,html,css,javascript,tensorflow,postgres,sqlite,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,postgres,sqlite,html,css,js,git,github,vscode"/>
 
 </p>
 
 ---
 
-# 🌌 PHILOSOPHY
-
-> **"Technology should not only be intelligent.  
-It should be trustworthy."**
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=180&section=footer"/>
+### "Great technology earns trust before attention."
 
 </div>
