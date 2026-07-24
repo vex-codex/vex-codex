@@ -20,7 +20,7 @@
 ---
 
 # 💫 About Me:
-i am computer engineering student and very aenthusiast in AI AND ML field and exploring new technologies like deep learning and also exploring the field of nlp <br> and very enthusiast in way of learning new technologies and exploring the ml and ai very deeply by making project and using new tools<br> new tools<br>
+i am computer engineering student and very aenthusiast in AI AND ML field and exploring new technologies like deep learning and also exploring the field of nlp <br> and very enthusiast in way of learning new technologies and exploring the ml and ai very deeply by making project and using new tools<br><br>
 
 
 # 💻 Tech Stack:
