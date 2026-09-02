@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&color=CC66FF&lines=Artificial+Intelligence+Explorer;Machine+Learning+Engineer;Natural+Language+Processing+Enthusiast;Deep+Learning+Learner;Data+Science+Explorer;Building+Intelligent+Solutions+for+Real+World+Problems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=900&color=CC66FF&lines=Artificial+Intelligence+Engineer;Machine+Learning+Engineer;Natural+Language+Processing+Enthusiast;Deep+Learning+Learner;Data+Science+Explorer;Building+Intelligent+Solutions+for+Real+World+Problems"/>
 
 <br>
 
