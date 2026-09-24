@@ -2,14 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,18,24&text=PATEL%20SAKSHI&fontSize=56&fontColor=F8F4FF&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20Engineer&descAlignY=62&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=800&color=CC66FF&lines=Machine+Learning+Engineer;Building+Fake+Review+%26+Product+Detection+Systems;NLP+%2B+Computer+Vision;Final-Year+Computer+Engineering+Student"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=800&color=B026FF&lines=Machine+Learning+Engineer;Building+Fake+Review+%26+Product+Detection+Systems;NLP+%2B+Computer+Vision;Final-Year+Computer+Engineering+Student"/>
 
 <p>
 <a href="https://github.com/vex-codex">
 <img src="https://img.shields.io/badge/GitHub-vex--codex-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/SPI-9.13-CC66FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graduating-2027-BF5FFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPI-9.13-B026FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graduating-2027-9D00FF?style=for-the-badge"/>
 </p>
 
 </div>
@@ -21,6 +21,20 @@
 Final-year Computer Engineering student at LDRP-ITR, KSV University, focused on applied AI and ML — not just coursework, but shipped, end-to-end systems: model training, backend, and production-grade frontend.
 
 Completed virtual internships in Data Science and AI & Cloud. Currently building out a portfolio centered on trust and safety ML — fraud, fake reviews, and content authenticity detection.
+
+---
+
+## Core Skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-B026FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-A020F0?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-9D00FF?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-C724FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -78,22 +92,8 @@ Time-tracking productivity app with an analog, ink-fill clock visualization — 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vex-codex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CC66FF&icon_color=CC66FF"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vex-codex&theme=tokyonight&hide_border=true&background=0D1117&ring=CC66FF&fire=CC66FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vex-codex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=CC66FF"/>
-
-</div>
-
----
-
 <div align="center">
 
 *Building intelligent systems that solve real trust and safety problems.*
 
 </div>
-
